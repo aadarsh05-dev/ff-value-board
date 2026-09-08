@@ -1,0 +1,2214 @@
+{
+ "season": 2025,
+ "scoring": "ppr",
+ "teams": 12,
+ "replacement": {
+  "QB": 270.2,
+  "RB": 158.8,
+  "WR": 147.2,
+  "TE": 128.7
+ },
+ "generated_from_seasons": "2019-2024",
+ "players": [
+  {
+   "id": "00-0036900",
+   "name": "Ja'Marr Chase",
+   "pos": "WR",
+   "team": "CIN",
+   "proj_points": 314.5,
+   "proj_ppg": 18.5,
+   "vor": 167.3,
+   "overall_rank": 1
+  },
+  {
+   "id": "00-0036963",
+   "name": "Amon-Ra St. Brown",
+   "pos": "WR",
+   "team": "DET",
+   "proj_points": 289.3,
+   "proj_ppg": 17.02,
+   "vor": 142.1,
+   "overall_rank": 2
+  },
+  {
+   "id": "00-0036322",
+   "name": "Justin Jefferson",
+   "pos": "WR",
+   "team": "MIN",
+   "proj_points": 287.8,
+   "proj_ppg": 16.93,
+   "vor": 140.6,
+   "overall_rank": 3
+  },
+  {
+   "id": "00-0039139",
+   "name": "Jahmyr Gibbs",
+   "pos": "RB",
+   "team": "DET",
+   "proj_points": 292.8,
+   "proj_ppg": 17.22,
+   "vor": 134.0,
+   "overall_rank": 4
+  },
+  {
+   "id": "00-0034844",
+   "name": "Saquon Barkley",
+   "pos": "RB",
+   "team": "PHI",
+   "proj_points": 280.0,
+   "proj_ppg": 17.5,
+   "vor": 121.2,
+   "overall_rank": 5
+  },
+  {
+   "id": "00-0038542",
+   "name": "Bijan Robinson",
+   "pos": "RB",
+   "team": "ATL",
+   "proj_points": 273.7,
+   "proj_ppg": 16.1,
+   "vor": 114.9,
+   "overall_rank": 6
+  },
+  {
+   "id": "00-0032764",
+   "name": "Derrick Henry",
+   "pos": "RB",
+   "team": "BAL",
+   "proj_points": 271.0,
+   "proj_ppg": 15.94,
+   "vor": 112.2,
+   "overall_rank": 7
+  },
+  {
+   "id": "00-0036358",
+   "name": "CeeDee Lamb",
+   "pos": "WR",
+   "team": "DAL",
+   "proj_points": 256.2,
+   "proj_ppg": 17.08,
+   "vor": 109.0,
+   "overall_rank": 8
+  },
+  {
+   "id": "00-0039040",
+   "name": "De'Von Achane",
+   "pos": "RB",
+   "team": "MIA",
+   "proj_points": 265.4,
+   "proj_ppg": 15.61,
+   "vor": 106.6,
+   "overall_rank": 9
+  },
+  {
+   "id": "00-0039893",
+   "name": "Brian Thomas Jr.",
+   "pos": "WR",
+   "team": "JAX",
+   "proj_points": 253.3,
+   "proj_ppg": 14.9,
+   "vor": 106.1,
+   "overall_rank": 10
+  },
+  {
+   "id": "00-0033040",
+   "name": "Tyreek Hill",
+   "pos": "WR",
+   "team": "MIA",
+   "proj_points": 251.5,
+   "proj_ppg": 14.79,
+   "vor": 104.3,
+   "overall_rank": 11
+  },
+  {
+   "id": "00-0037840",
+   "name": "Kyren Williams",
+   "pos": "RB",
+   "team": "LA",
+   "proj_points": 260.5,
+   "proj_ppg": 16.28,
+   "vor": 101.7,
+   "overall_rank": 12
+  },
+  {
+   "id": "00-0034796",
+   "name": "Lamar Jackson",
+   "pos": "QB",
+   "team": "BAL",
+   "proj_points": 371.3,
+   "proj_ppg": 21.84,
+   "vor": 101.1,
+   "overall_rank": 13
+  },
+  {
+   "id": "00-0039338",
+   "name": "Brock Bowers",
+   "pos": "TE",
+   "team": "LV",
+   "proj_points": 229.8,
+   "proj_ppg": 13.52,
+   "vor": 101.1,
+   "overall_rank": 14
+  },
+  {
+   "id": "00-0039337",
+   "name": "Malik Nabers",
+   "pos": "WR",
+   "team": "NYG",
+   "proj_points": 238.8,
+   "proj_ppg": 15.92,
+   "vor": 91.6,
+   "overall_rank": 15
+  },
+  {
+   "id": "00-0035700",
+   "name": "Josh Jacobs",
+   "pos": "RB",
+   "team": "GB",
+   "proj_points": 245.4,
+   "proj_ppg": 14.44,
+   "vor": 86.6,
+   "overall_rank": 16
+  },
+  {
+   "id": "00-0034827",
+   "name": "DJ Moore",
+   "pos": "WR",
+   "team": "CHI",
+   "proj_points": 229.8,
+   "proj_ppg": 13.52,
+   "vor": 82.6,
+   "overall_rank": 17
+  },
+  {
+   "id": "00-0037238",
+   "name": "Drake London",
+   "pos": "WR",
+   "team": "ATL",
+   "proj_points": 223.6,
+   "proj_ppg": 13.15,
+   "vor": 76.4,
+   "overall_rank": 18
+  },
+  {
+   "id": "00-0034857",
+   "name": "Josh Allen",
+   "pos": "QB",
+   "team": "BUF",
+   "proj_points": 345.1,
+   "proj_ppg": 21.57,
+   "vor": 74.9,
+   "overall_rank": 19
+  },
+  {
+   "id": "00-0035659",
+   "name": "Terry McLaurin",
+   "pos": "WR",
+   "team": "WAS",
+   "proj_points": 221.8,
+   "proj_ppg": 13.05,
+   "vor": 74.6,
+   "overall_rank": 20
+  },
+  {
+   "id": "00-0037740",
+   "name": "Garrett Wilson",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj_points": 216.3,
+   "proj_ppg": 12.72,
+   "vor": 69.1,
+   "overall_rank": 21
+  },
+  {
+   "id": "00-0039915",
+   "name": "Ladd McConkey",
+   "pos": "WR",
+   "team": "LAC",
+   "proj_points": 215.8,
+   "proj_ppg": 13.49,
+   "vor": 68.6,
+   "overall_rank": 22
+  },
+  {
+   "id": "00-0033906",
+   "name": "Alvin Kamara",
+   "pos": "RB",
+   "team": "NO",
+   "proj_points": 225.6,
+   "proj_ppg": 16.11,
+   "vor": 66.8,
+   "overall_rank": 23
+  },
+  {
+   "id": "00-0038120",
+   "name": "Breece Hall",
+   "pos": "RB",
+   "team": "NYJ",
+   "proj_points": 225.6,
+   "proj_ppg": 14.1,
+   "vor": 66.8,
+   "overall_rank": 24
+  },
+  {
+   "id": "00-0033553",
+   "name": "James Conner",
+   "pos": "RB",
+   "team": "ARI",
+   "proj_points": 225.2,
+   "proj_ppg": 14.08,
+   "vor": 66.4,
+   "overall_rank": 25
+  },
+  {
+   "id": "00-0037248",
+   "name": "James Cook",
+   "pos": "RB",
+   "team": "BUF",
+   "proj_points": 223.8,
+   "proj_ppg": 13.99,
+   "vor": 65.0,
+   "overall_rank": 26
+  },
+  {
+   "id": "00-0039361",
+   "name": "Bucky Irving",
+   "pos": "RB",
+   "team": "TB",
+   "proj_points": 221.9,
+   "proj_ppg": 13.05,
+   "vor": 63.1,
+   "overall_rank": 27
+  },
+  {
+   "id": "00-0037744",
+   "name": "Trey McBride",
+   "pos": "TE",
+   "team": "ARI",
+   "proj_points": 191.6,
+   "proj_ppg": 11.97,
+   "vor": 62.9,
+   "overall_rank": 28
+  },
+  {
+   "id": "00-0039910",
+   "name": "Jayden Daniels",
+   "pos": "QB",
+   "team": "WAS",
+   "proj_points": 333.1,
+   "proj_ppg": 19.6,
+   "vor": 62.9,
+   "overall_rank": 29
+  },
+  {
+   "id": "00-0033288",
+   "name": "George Kittle",
+   "pos": "TE",
+   "team": "SF",
+   "proj_points": 190.8,
+   "proj_ppg": 12.72,
+   "vor": 62.1,
+   "overall_rank": 30
+  },
+  {
+   "id": "00-0031408",
+   "name": "Mike Evans",
+   "pos": "WR",
+   "team": "TB",
+   "proj_points": 207.3,
+   "proj_ppg": 14.81,
+   "vor": 60.1,
+   "overall_rank": 31
+  },
+  {
+   "id": "00-0030279",
+   "name": "Keenan Allen",
+   "pos": "WR",
+   "team": "CHI",
+   "proj_points": 206.3,
+   "proj_ppg": 13.75,
+   "vor": 59.1,
+   "overall_rank": 32
+  },
+  {
+   "id": "00-0031381",
+   "name": "Davante Adams",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj_points": 203.9,
+   "proj_ppg": 14.57,
+   "vor": 56.7,
+   "overall_rank": 33
+  },
+  {
+   "id": "00-0030506",
+   "name": "Travis Kelce",
+   "pos": "TE",
+   "team": "KC",
+   "proj_points": 184.1,
+   "proj_ppg": 11.51,
+   "vor": 55.4,
+   "overall_rank": 34
+  },
+  {
+   "id": "00-0034348",
+   "name": "Courtland Sutton",
+   "pos": "WR",
+   "team": "DEN",
+   "proj_points": 201.3,
+   "proj_ppg": 12.58,
+   "vor": 54.1,
+   "overall_rank": 35
+  },
+  {
+   "id": "00-0034753",
+   "name": "Mark Andrews",
+   "pos": "TE",
+   "team": "BAL",
+   "proj_points": 181.7,
+   "proj_ppg": 10.69,
+   "vor": 53.0,
+   "overall_rank": 36
+  },
+  {
+   "id": "00-0038543",
+   "name": "Jaxon Smith-Njigba",
+   "pos": "WR",
+   "team": "SEA",
+   "proj_points": 198.9,
+   "proj_ppg": 11.7,
+   "vor": 51.7,
+   "overall_rank": 37
+  },
+  {
+   "id": "00-0033293",
+   "name": "Aaron Jones",
+   "pos": "RB",
+   "team": "MIN",
+   "proj_points": 210.3,
+   "proj_ppg": 12.37,
+   "vor": 51.5,
+   "overall_rank": 38
+  },
+  {
+   "id": "00-0039064",
+   "name": "Zay Flowers",
+   "pos": "WR",
+   "team": "BAL",
+   "proj_points": 195.7,
+   "proj_ppg": 11.51,
+   "vor": 48.5,
+   "overall_rank": 39
+  },
+  {
+   "id": "00-0036223",
+   "name": "Jonathan Taylor",
+   "pos": "RB",
+   "team": "IND",
+   "proj_points": 206.5,
+   "proj_ppg": 14.75,
+   "vor": 47.7,
+   "overall_rank": 40
+  },
+  {
+   "id": "00-0034837",
+   "name": "Calvin Ridley",
+   "pos": "WR",
+   "team": "TEN",
+   "proj_points": 193.3,
+   "proj_ppg": 11.37,
+   "vor": 46.1,
+   "overall_rank": 41
+  },
+  {
+   "id": "00-0033897",
+   "name": "Joe Mixon",
+   "pos": "RB",
+   "team": "HOU",
+   "proj_points": 204.6,
+   "proj_ppg": 14.61,
+   "vor": 45.8,
+   "overall_rank": 42
+  },
+  {
+   "id": "00-0036407",
+   "name": "Jerry Jeudy",
+   "pos": "WR",
+   "team": "CLE",
+   "proj_points": 192.8,
+   "proj_ppg": 11.34,
+   "vor": 45.6,
+   "overall_rank": 43
+  },
+  {
+   "id": "00-0039146",
+   "name": "Jayden Reed",
+   "pos": "WR",
+   "team": "GB",
+   "proj_points": 192.4,
+   "proj_ppg": 11.32,
+   "vor": 45.2,
+   "overall_rank": 44
+  },
+  {
+   "id": "00-0034855",
+   "name": "Baker Mayfield",
+   "pos": "QB",
+   "team": "TB",
+   "proj_points": 315.2,
+   "proj_ppg": 18.54,
+   "vor": 45.0,
+   "overall_rank": 45
+  },
+  {
+   "id": "00-0034960",
+   "name": "Jakobi Meyers",
+   "pos": "WR",
+   "team": "LV",
+   "proj_points": 191.3,
+   "proj_ppg": 12.75,
+   "vor": 44.1,
+   "overall_rank": 46
+  },
+  {
+   "id": "00-0039065",
+   "name": "Sam LaPorta",
+   "pos": "TE",
+   "team": "DET",
+   "proj_points": 170.8,
+   "proj_ppg": 10.68,
+   "vor": 42.1,
+   "overall_rank": 47
+  },
+  {
+   "id": "00-0035676",
+   "name": "A.J. Brown",
+   "pos": "WR",
+   "team": "PHI",
+   "proj_points": 189.1,
+   "proj_ppg": 14.55,
+   "vor": 41.9,
+   "overall_rank": 48
+  },
+  {
+   "id": "00-0036442",
+   "name": "Joe Burrow",
+   "pos": "QB",
+   "team": "CIN",
+   "proj_points": 312.1,
+   "proj_ppg": 18.36,
+   "vor": 41.9,
+   "overall_rank": 49
+  },
+  {
+   "id": "00-0033858",
+   "name": "Jonnu Smith",
+   "pos": "TE",
+   "team": "MIA",
+   "proj_points": 169.3,
+   "proj_ppg": 9.96,
+   "vor": 40.6,
+   "overall_rank": 50
+  },
+  {
+   "id": "00-0038994",
+   "name": "Jordan Addison",
+   "pos": "WR",
+   "team": "MIN",
+   "proj_points": 185.8,
+   "proj_ppg": 12.38,
+   "vor": 38.6,
+   "overall_rank": 51
+  },
+  {
+   "id": "00-0036275",
+   "name": "D'Andre Swift",
+   "pos": "RB",
+   "team": "CHI",
+   "proj_points": 197.0,
+   "proj_ppg": 11.59,
+   "vor": 38.2,
+   "overall_rank": 52
+  },
+  {
+   "id": "00-0039849",
+   "name": "Marvin Harrison Jr.",
+   "pos": "WR",
+   "team": "ARI",
+   "proj_points": 182.4,
+   "proj_ppg": 10.73,
+   "vor": 35.2,
+   "overall_rank": 53
+  },
+  {
+   "id": "00-0036555",
+   "name": "Chuba Hubbard",
+   "pos": "RB",
+   "team": "CAR",
+   "proj_points": 192.0,
+   "proj_ppg": 12.8,
+   "vor": 33.2,
+   "overall_rank": 54
+  },
+  {
+   "id": "00-0035685",
+   "name": "David Montgomery",
+   "pos": "RB",
+   "team": "DET",
+   "proj_points": 191.6,
+   "proj_ppg": 13.69,
+   "vor": 32.8,
+   "overall_rank": 55
+  },
+  {
+   "id": "00-0036252",
+   "name": "Michael Pittman",
+   "pos": "WR",
+   "team": "IND",
+   "proj_points": 179.9,
+   "proj_ppg": 11.24,
+   "vor": 32.7,
+   "overall_rank": 56
+  },
+  {
+   "id": "00-0037256",
+   "name": "Rachaad White",
+   "pos": "RB",
+   "team": "TB",
+   "proj_points": 191.2,
+   "proj_ppg": 12.75,
+   "vor": 32.4,
+   "overall_rank": 57
+  },
+  {
+   "id": "00-0035640",
+   "name": "DK Metcalf",
+   "pos": "WR",
+   "team": "SEA",
+   "proj_points": 179.3,
+   "proj_ppg": 11.95,
+   "vor": 32.1,
+   "overall_rank": 58
+  },
+  {
+   "id": "00-0036554",
+   "name": "Nico Collins",
+   "pos": "WR",
+   "team": "HOU",
+   "proj_points": 179.0,
+   "proj_ppg": 14.92,
+   "vor": 31.8,
+   "overall_rank": 59
+  },
+  {
+   "id": "00-0039732",
+   "name": "Bo Nix",
+   "pos": "QB",
+   "team": "DEN",
+   "proj_points": 301.9,
+   "proj_ppg": 17.76,
+   "vor": 31.7,
+   "overall_rank": 60
+  },
+  {
+   "id": "00-0036893",
+   "name": "Najee Harris",
+   "pos": "RB",
+   "team": "PIT",
+   "proj_points": 187.1,
+   "proj_ppg": 11.01,
+   "vor": 28.3,
+   "overall_rank": 61
+  },
+  {
+   "id": "00-0035261",
+   "name": "Tony Pollard",
+   "pos": "RB",
+   "team": "TEN",
+   "proj_points": 186.8,
+   "proj_ppg": 11.68,
+   "vor": 28.0,
+   "overall_rank": 62
+  },
+  {
+   "id": "00-0033106",
+   "name": "Jared Goff",
+   "pos": "QB",
+   "team": "DET",
+   "proj_points": 297.7,
+   "proj_ppg": 17.51,
+   "vor": 27.5,
+   "overall_rank": 63
+  },
+  {
+   "id": "00-0039894",
+   "name": "Xavier Worthy",
+   "pos": "WR",
+   "team": "KC",
+   "proj_points": 172.8,
+   "proj_ppg": 10.8,
+   "vor": 25.6,
+   "overall_rank": 64
+  },
+  {
+   "id": "00-0019596",
+   "name": "Tom Brady",
+   "pos": "QB",
+   "team": "TB",
+   "proj_points": 294.2,
+   "proj_ppg": 17.31,
+   "vor": 24.0,
+   "overall_rank": 65
+  },
+  {
+   "id": "00-0036912",
+   "name": "DeVonta Smith",
+   "pos": "WR",
+   "team": "PHI",
+   "proj_points": 170.7,
+   "proj_ppg": 13.13,
+   "vor": 23.5,
+   "overall_rank": 66
+  },
+  {
+   "id": "00-0035719",
+   "name": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "team": "SF",
+   "proj_points": 170.0,
+   "proj_ppg": 11.33,
+   "vor": 22.8,
+   "overall_rank": 67
+  },
+  {
+   "id": "00-0036389",
+   "name": "Jalen Hurts",
+   "pos": "QB",
+   "team": "PHI",
+   "proj_points": 292.7,
+   "proj_ppg": 19.51,
+   "vor": 22.5,
+   "overall_rank": 68
+  },
+  {
+   "id": "00-0039075",
+   "name": "Puka Nacua",
+   "pos": "WR",
+   "team": "LA",
+   "proj_points": 169.2,
+   "proj_ppg": 15.38,
+   "vor": 22.0,
+   "overall_rank": 69
+  },
+  {
+   "id": "00-0035228",
+   "name": "Kyler Murray",
+   "pos": "QB",
+   "team": "ARI",
+   "proj_points": 289.6,
+   "proj_ppg": 17.04,
+   "vor": 19.4,
+   "overall_rank": 70
+  },
+  {
+   "id": "00-0036410",
+   "name": "Tee Higgins",
+   "pos": "WR",
+   "team": "CIN",
+   "proj_points": 166.0,
+   "proj_ppg": 13.84,
+   "vor": 18.8,
+   "overall_rank": 71
+  },
+  {
+   "id": "00-0038597",
+   "name": "Chase Brown",
+   "pos": "RB",
+   "team": "CIN",
+   "proj_points": 176.4,
+   "proj_ppg": 11.02,
+   "vor": 17.6,
+   "overall_rank": 72
+  },
+  {
+   "id": "00-0030061",
+   "name": "Zach Ertz",
+   "pos": "TE",
+   "team": "WAS",
+   "proj_points": 146.1,
+   "proj_ppg": 8.59,
+   "vor": 17.4,
+   "overall_rank": 73
+  },
+  {
+   "id": "00-0038117",
+   "name": "Wan'Dale Robinson",
+   "pos": "WR",
+   "team": "NYG",
+   "proj_points": 162.3,
+   "proj_ppg": 9.54,
+   "vor": 15.1,
+   "overall_rank": 74
+  },
+  {
+   "id": "00-0039384",
+   "name": "Tyrone Tracy Jr.",
+   "pos": "RB",
+   "team": "NYG",
+   "proj_points": 171.7,
+   "proj_ppg": 10.1,
+   "vor": 12.9,
+   "overall_rank": 75
+  },
+  {
+   "id": "00-0037240",
+   "name": "Jameson Williams",
+   "pos": "WR",
+   "team": "DET",
+   "proj_points": 159.4,
+   "proj_ppg": 10.63,
+   "vor": 12.2,
+   "overall_rank": 76
+  },
+  {
+   "id": "00-0036355",
+   "name": "Justin Herbert",
+   "pos": "QB",
+   "team": "LAC",
+   "proj_points": 282.0,
+   "proj_ppg": 16.59,
+   "vor": 11.8,
+   "overall_rank": 77
+  },
+  {
+   "id": "00-0036894",
+   "name": "Pat Freiermuth",
+   "pos": "TE",
+   "team": "PIT",
+   "proj_points": 140.4,
+   "proj_ppg": 8.26,
+   "vor": 11.7,
+   "overall_rank": 78
+  },
+  {
+   "id": "00-0030564",
+   "name": "DeAndre Hopkins",
+   "pos": "WR",
+   "team": "KC",
+   "proj_points": 158.4,
+   "proj_ppg": 9.9,
+   "vor": 11.2,
+   "overall_rank": 79
+  },
+  {
+   "id": "00-0036613",
+   "name": "Jaylen Waddle",
+   "pos": "WR",
+   "team": "MIA",
+   "proj_points": 158.3,
+   "proj_ppg": 10.56,
+   "vor": 11.1,
+   "overall_rank": 80
+  },
+  {
+   "id": "00-0032241",
+   "name": "Todd Gurley",
+   "pos": "RB",
+   "team": "ATL",
+   "proj_points": 167.9,
+   "proj_ppg": 11.19,
+   "vor": 9.1,
+   "overall_rank": 81
+  },
+  {
+   "id": "00-0038977",
+   "name": "Tank Dell",
+   "pos": "WR",
+   "team": "HOU",
+   "proj_points": 156.1,
+   "proj_ppg": 11.15,
+   "vor": 8.9,
+   "overall_rank": 82
+  },
+  {
+   "id": "00-0036875",
+   "name": "Rhamondre Stevenson",
+   "pos": "RB",
+   "team": "NE",
+   "proj_points": 164.1,
+   "proj_ppg": 10.94,
+   "vor": 5.3,
+   "overall_rank": 83
+  },
+  {
+   "id": "00-0033090",
+   "name": "Hunter Henry",
+   "pos": "TE",
+   "team": "NE",
+   "proj_points": 133.9,
+   "proj_ppg": 8.37,
+   "vor": 5.2,
+   "overall_rank": 84
+  },
+  {
+   "id": "00-0037247",
+   "name": "George Pickens",
+   "pos": "WR",
+   "team": "PIT",
+   "proj_points": 152.4,
+   "proj_ppg": 10.88,
+   "vor": 5.2,
+   "overall_rank": 85
+  },
+  {
+   "id": "00-0038997",
+   "name": "Josh Downs",
+   "pos": "WR",
+   "team": "IND",
+   "proj_points": 150.4,
+   "proj_ppg": 10.74,
+   "vor": 3.2,
+   "overall_rank": 86
+  },
+  {
+   "id": "00-0033908",
+   "name": "Cooper Kupp",
+   "pos": "WR",
+   "team": "LA",
+   "proj_points": 150.1,
+   "proj_ppg": 12.51,
+   "vor": 2.9,
+   "overall_rank": 87
+  },
+  {
+   "id": "00-0036997",
+   "name": "Javonte Williams",
+   "pos": "RB",
+   "team": "DEN",
+   "proj_points": 161.1,
+   "proj_ppg": 9.48,
+   "vor": 2.3,
+   "overall_rank": 88
+  },
+  {
+   "id": "00-0036290",
+   "name": "Cole Kmet",
+   "pos": "TE",
+   "team": "CHI",
+   "proj_points": 130.3,
+   "proj_ppg": 8.14,
+   "vor": 1.6,
+   "overall_rank": 89
+  },
+  {
+   "id": "00-0036309",
+   "name": "Darnell Mooney",
+   "pos": "WR",
+   "team": "ATL",
+   "proj_points": 148.8,
+   "proj_ppg": 9.3,
+   "vor": 1.6,
+   "overall_rank": 90
+  },
+  {
+   "id": "00-0038996",
+   "name": "Tucker Kraft",
+   "pos": "TE",
+   "team": "GB",
+   "proj_points": 130.1,
+   "proj_ppg": 7.65,
+   "vor": 1.4,
+   "overall_rank": 91
+  },
+  {
+   "id": "00-0036973",
+   "name": "Travis Etienne",
+   "pos": "RB",
+   "team": "JAX",
+   "proj_points": 159.2,
+   "proj_ppg": 10.61,
+   "vor": 0.4,
+   "overall_rank": 92
+  },
+  {
+   "id": "00-0033873",
+   "name": "Patrick Mahomes",
+   "pos": "QB",
+   "team": "KC",
+   "proj_points": 270.2,
+   "proj_ppg": 16.89,
+   "vor": 0.0,
+   "overall_rank": 93
+  },
+  {
+   "id": "00-0027656",
+   "name": "Rob Gronkowski",
+   "pos": "TE",
+   "team": "TB",
+   "proj_points": 128.7,
+   "proj_ppg": 10.73,
+   "vor": 0.0,
+   "overall_rank": 94
+  },
+  {
+   "id": "00-0036158",
+   "name": "J.K. Dobbins",
+   "pos": "RB",
+   "team": "LAC",
+   "proj_points": 158.8,
+   "proj_ppg": 12.22,
+   "vor": 0.0,
+   "overall_rank": 95
+  },
+  {
+   "id": "00-0036259",
+   "name": "Jauan Jennings",
+   "pos": "WR",
+   "team": "SF",
+   "proj_points": 147.2,
+   "proj_ppg": 9.81,
+   "vor": 0.0,
+   "overall_rank": 96
+  },
+  {
+   "id": "00-0034383",
+   "name": "Dalton Schultz",
+   "pos": "TE",
+   "team": "HOU",
+   "proj_points": 127.7,
+   "proj_ppg": 7.51,
+   "vor": -1.0,
+   "overall_rank": 97
+  },
+  {
+   "id": "00-0037261",
+   "name": "Khalil Shakir",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 145.7,
+   "proj_ppg": 9.71,
+   "vor": -1.5,
+   "overall_rank": 98
+  },
+  {
+   "id": "00-0032211",
+   "name": "Tyler Lockett",
+   "pos": "WR",
+   "team": "SEA",
+   "proj_points": 144.4,
+   "proj_ppg": 8.49,
+   "vor": -2.8,
+   "overall_rank": 99
+  },
+  {
+   "id": "00-0036970",
+   "name": "Kyle Pitts",
+   "pos": "TE",
+   "team": "ATL",
+   "proj_points": 125.1,
+   "proj_ppg": 7.36,
+   "vor": -3.6,
+   "overall_rank": 100
+  },
+  {
+   "id": "00-0039165",
+   "name": "Zach Charbonnet",
+   "pos": "RB",
+   "team": "SEA",
+   "proj_points": 154.4,
+   "proj_ppg": 9.08,
+   "vor": -4.4,
+   "overall_rank": 101
+  },
+  {
+   "id": "00-0037746",
+   "name": "Brian Robinson",
+   "pos": "RB",
+   "team": "WAS",
+   "proj_points": 154.3,
+   "proj_ppg": 11.02,
+   "vor": -4.5,
+   "overall_rank": 102
+  },
+  {
+   "id": "00-0027061",
+   "name": "Jared Cook",
+   "pos": "TE",
+   "team": "LAC",
+   "proj_points": 123.9,
+   "proj_ppg": 7.74,
+   "vor": -4.8,
+   "overall_rank": 103
+  },
+  {
+   "id": "00-0032775",
+   "name": "Demarcus Robinson",
+   "pos": "WR",
+   "team": "LA",
+   "proj_points": 141.0,
+   "proj_ppg": 8.29,
+   "vor": -6.2,
+   "overall_rank": 104
+  },
+  {
+   "id": "00-0036139",
+   "name": "Rico Dowdle",
+   "pos": "RB",
+   "team": "DAL",
+   "proj_points": 152.3,
+   "proj_ppg": 9.52,
+   "vor": -6.5,
+   "overall_rank": 105
+  },
+  {
+   "id": "00-0039919",
+   "name": "Rome Odunze",
+   "pos": "WR",
+   "team": "CHI",
+   "proj_points": 140.6,
+   "proj_ppg": 8.27,
+   "vor": -6.6,
+   "overall_rank": 106
+  },
+  {
+   "id": "00-0033885",
+   "name": "David Njoku",
+   "pos": "TE",
+   "team": "CLE",
+   "proj_points": 121.8,
+   "proj_ppg": 11.08,
+   "vor": -6.9,
+   "overall_rank": 107
+  },
+  {
+   "id": "00-0036550",
+   "name": "Rashod Bateman",
+   "pos": "WR",
+   "team": "BAL",
+   "proj_points": 136.7,
+   "proj_ppg": 8.54,
+   "vor": -10.5,
+   "overall_rank": 108
+  },
+  {
+   "id": "00-0031544",
+   "name": "Amari Cooper",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 135.7,
+   "proj_ppg": 10.44,
+   "vor": -11.5,
+   "overall_rank": 109
+  },
+  {
+   "id": "00-0038544",
+   "name": "Quentin Johnston",
+   "pos": "WR",
+   "team": "LAC",
+   "proj_points": 135.3,
+   "proj_ppg": 9.02,
+   "vor": -11.9,
+   "overall_rank": 110
+  },
+  {
+   "id": "00-0033921",
+   "name": "Chris Godwin Jr.",
+   "pos": "WR",
+   "team": "TB",
+   "proj_points": 135.1,
+   "proj_ppg": 13.51,
+   "vor": -12.1,
+   "overall_rank": 111
+  },
+  {
+   "id": "00-0030565",
+   "name": "Geno Smith",
+   "pos": "QB",
+   "team": "SEA",
+   "proj_points": 258.0,
+   "proj_ppg": 15.18,
+   "vor": -12.2,
+   "overall_rank": 112
+  },
+  {
+   "id": "00-0037834",
+   "name": "Brock Purdy",
+   "pos": "QB",
+   "team": "SF",
+   "proj_points": 257.5,
+   "proj_ppg": 17.17,
+   "vor": -12.7,
+   "overall_rank": 113
+  },
+  {
+   "id": "00-0038621",
+   "name": "DeMario Douglas",
+   "pos": "WR",
+   "team": "NE",
+   "proj_points": 134.2,
+   "proj_ppg": 8.39,
+   "vor": -13.0,
+   "overall_rank": 114
+  },
+  {
+   "id": "00-0038134",
+   "name": "Kenneth Walker III",
+   "pos": "RB",
+   "team": "SEA",
+   "proj_points": 145.7,
+   "proj_ppg": 13.25,
+   "vor": -13.1,
+   "overall_rank": 115
+  },
+  {
+   "id": "00-0027685",
+   "name": "Emmanuel Sanders",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 133.9,
+   "proj_ppg": 9.56,
+   "vor": -13.3,
+   "overall_rank": 116
+  },
+  {
+   "id": "00-0038129",
+   "name": "Cade Otton",
+   "pos": "TE",
+   "team": "TB",
+   "proj_points": 114.1,
+   "proj_ppg": 8.15,
+   "vor": -14.6,
+   "overall_rank": 117
+  },
+  {
+   "id": "00-0037664",
+   "name": "Alec Pierce",
+   "pos": "WR",
+   "team": "IND",
+   "proj_points": 132.1,
+   "proj_ppg": 8.26,
+   "vor": -15.1,
+   "overall_rank": 118
+  },
+  {
+   "id": "00-0036936",
+   "name": "Rondale Moore",
+   "pos": "WR",
+   "team": "ARI",
+   "proj_points": 131.5,
+   "proj_ppg": 7.74,
+   "vor": -15.7,
+   "overall_rank": 119
+  },
+  {
+   "id": "00-0034270",
+   "name": "Tyler Conklin",
+   "pos": "TE",
+   "team": "NYJ",
+   "proj_points": 112.8,
+   "proj_ppg": 7.05,
+   "vor": -15.9,
+   "overall_rank": 120
+  },
+  {
+   "id": "00-0027793",
+   "name": "Antonio Brown",
+   "pos": "WR",
+   "team": "TB",
+   "proj_points": 130.4,
+   "proj_ppg": 13.04,
+   "vor": -16.8,
+   "overall_rank": 121
+  },
+  {
+   "id": "00-0036040",
+   "name": "Juwan Johnson",
+   "pos": "TE",
+   "team": "NO",
+   "proj_points": 110.9,
+   "proj_ppg": 7.4,
+   "vor": -17.8,
+   "overall_rank": 122
+  },
+  {
+   "id": "00-0034829",
+   "name": "Mike Gesicki",
+   "pos": "TE",
+   "team": "CIN",
+   "proj_points": 110.1,
+   "proj_ppg": 6.88,
+   "vor": -18.6,
+   "overall_rank": 123
+  },
+  {
+   "id": "00-0037838",
+   "name": "Isaiah Likely",
+   "pos": "TE",
+   "team": "BAL",
+   "proj_points": 110.1,
+   "proj_ppg": 7.34,
+   "vor": -18.6,
+   "overall_rank": 124
+  },
+  {
+   "id": "00-0039918",
+   "name": "Caleb Williams",
+   "pos": "QB",
+   "team": "CHI",
+   "proj_points": 251.1,
+   "proj_ppg": 14.77,
+   "vor": -19.1,
+   "overall_rank": 125
+  },
+  {
+   "id": "00-0031260",
+   "name": "Logan Thomas",
+   "pos": "TE",
+   "team": "WAS",
+   "proj_points": 109.5,
+   "proj_ppg": 6.85,
+   "vor": -19.2,
+   "overall_rank": 126
+  },
+  {
+   "id": "00-0031588",
+   "name": "Stefon Diggs",
+   "pos": "WR",
+   "team": "HOU",
+   "proj_points": 127.7,
+   "proj_ppg": 12.77,
+   "vor": -19.5,
+   "overall_rank": 127
+  },
+  {
+   "id": "00-0038041",
+   "name": "Jake Ferguson",
+   "pos": "TE",
+   "team": "DAL",
+   "proj_points": 109.0,
+   "proj_ppg": 7.78,
+   "vor": -19.7,
+   "overall_rank": 128
+  },
+  {
+   "id": "00-0038559",
+   "name": "Michael Wilson",
+   "pos": "WR",
+   "team": "ARI",
+   "proj_points": 127.3,
+   "proj_ppg": 7.95,
+   "vor": -19.9,
+   "overall_rank": 129
+  },
+  {
+   "id": "00-0034411",
+   "name": "Russell Gage",
+   "pos": "WR",
+   "team": "TB",
+   "proj_points": 127.1,
+   "proj_ppg": 9.78,
+   "vor": -20.1,
+   "overall_rank": 130
+  },
+  {
+   "id": "00-0036980",
+   "name": "Elijah Moore",
+   "pos": "WR",
+   "team": "CLE",
+   "proj_points": 126.7,
+   "proj_ppg": 7.45,
+   "vor": -20.5,
+   "overall_rank": 131
+  },
+  {
+   "id": "00-0039163",
+   "name": "C.J. Stroud",
+   "pos": "QB",
+   "team": "HOU",
+   "proj_points": 249.7,
+   "proj_ppg": 14.69,
+   "vor": -20.5,
+   "overall_rank": 132
+  },
+  {
+   "id": "00-0037267",
+   "name": "Jerome Ford",
+   "pos": "RB",
+   "team": "CLE",
+   "proj_points": 138.2,
+   "proj_ppg": 9.87,
+   "vor": -20.6,
+   "overall_rank": 133
+  },
+  {
+   "id": "00-0039855",
+   "name": "Jalen McMillan",
+   "pos": "WR",
+   "team": "TB",
+   "proj_points": 125.6,
+   "proj_ppg": 9.66,
+   "vor": -21.6,
+   "overall_rank": 134
+  },
+  {
+   "id": "00-0037809",
+   "name": "Chig Okonkwo",
+   "pos": "TE",
+   "team": "TEN",
+   "proj_points": 105.9,
+   "proj_ppg": 6.62,
+   "vor": -22.8,
+   "overall_rank": 135
+  },
+  {
+   "id": "00-0037666",
+   "name": "Jalen Tolbert",
+   "pos": "WR",
+   "team": "DAL",
+   "proj_points": 124.2,
+   "proj_ppg": 7.31,
+   "vor": -23.0,
+   "overall_rank": 136
+  },
+  {
+   "id": "00-0037228",
+   "name": "Jaylen Warren",
+   "pos": "RB",
+   "team": "PIT",
+   "proj_points": 135.1,
+   "proj_ppg": 9.0,
+   "vor": -23.7,
+   "overall_rank": 137
+  },
+  {
+   "id": "00-0037816",
+   "name": "Romeo Doubs",
+   "pos": "WR",
+   "team": "GB",
+   "proj_points": 123.4,
+   "proj_ppg": 9.49,
+   "vor": -23.8,
+   "overall_rank": 138
+  },
+  {
+   "id": "00-0031610",
+   "name": "Darren Waller",
+   "pos": "TE",
+   "team": "NYG",
+   "proj_points": 104.5,
+   "proj_ppg": 8.71,
+   "vor": -24.2,
+   "overall_rank": 139
+  },
+  {
+   "id": "00-0036988",
+   "name": "Josh Palmer",
+   "pos": "WR",
+   "team": "LAC",
+   "proj_points": 122.1,
+   "proj_ppg": 8.14,
+   "vor": -25.1,
+   "overall_rank": 140
+  },
+  {
+   "id": "00-0039342",
+   "name": "Xavier Legette",
+   "pos": "WR",
+   "team": "CAR",
+   "proj_points": 121.5,
+   "proj_ppg": 8.1,
+   "vor": -25.7,
+   "overall_rank": 141
+  },
+  {
+   "id": "00-0031285",
+   "name": "Devonta Freeman",
+   "pos": "RB",
+   "team": "BAL",
+   "proj_points": 132.3,
+   "proj_ppg": 8.27,
+   "vor": -26.5,
+   "overall_rank": 142
+  },
+  {
+   "id": "00-0035535",
+   "name": "Darius Slayton",
+   "pos": "WR",
+   "team": "NYG",
+   "proj_points": 120.1,
+   "proj_ppg": 7.5,
+   "vor": -27.1,
+   "overall_rank": 143
+  },
+  {
+   "id": "00-0038393",
+   "name": "Dontayvion Wicks",
+   "pos": "WR",
+   "team": "GB",
+   "proj_points": 120.0,
+   "proj_ppg": 7.06,
+   "vor": -27.2,
+   "overall_rank": 144
+  },
+  {
+   "id": "00-0030035",
+   "name": "Adam Thielen",
+   "pos": "WR",
+   "team": "CAR",
+   "proj_points": 119.3,
+   "proj_ppg": 11.93,
+   "vor": -27.9,
+   "overall_rank": 145
+  },
+  {
+   "id": "00-0036264",
+   "name": "Jordan Love",
+   "pos": "QB",
+   "team": "GB",
+   "proj_points": 241.8,
+   "proj_ppg": 16.12,
+   "vor": -28.4,
+   "overall_rank": 146
+  },
+  {
+   "id": "00-0038124",
+   "name": "Christian Watson",
+   "pos": "WR",
+   "team": "GB",
+   "proj_points": 118.6,
+   "proj_ppg": 8.47,
+   "vor": -28.6,
+   "overall_rank": 147
+  },
+  {
+   "id": "00-0038563",
+   "name": "Tre Tucker",
+   "pos": "WR",
+   "team": "LV",
+   "proj_points": 118.0,
+   "proj_ppg": 6.94,
+   "vor": -29.2,
+   "overall_rank": 148
+  },
+  {
+   "id": "00-0038933",
+   "name": "Dalton Kincaid",
+   "pos": "TE",
+   "team": "BUF",
+   "proj_points": 99.0,
+   "proj_ppg": 7.61,
+   "vor": -29.7,
+   "overall_rank": 149
+  },
+  {
+   "id": "00-0033699",
+   "name": "Austin Ekeler",
+   "pos": "RB",
+   "team": "WAS",
+   "proj_points": 128.5,
+   "proj_ppg": 10.71,
+   "vor": -30.3,
+   "overall_rank": 150
+  },
+  {
+   "id": "00-0036182",
+   "name": "Nick Westbrook-Ikhine",
+   "pos": "WR",
+   "team": "TEN",
+   "proj_points": 116.0,
+   "proj_ppg": 8.28,
+   "vor": -31.2,
+   "overall_rank": 151
+  },
+  {
+   "id": "00-0033923",
+   "name": "Kareem Hunt",
+   "pos": "RB",
+   "team": "KC",
+   "proj_points": 127.5,
+   "proj_ppg": 9.81,
+   "vor": -31.3,
+   "overall_rank": 152
+  },
+  {
+   "id": "00-0033536",
+   "name": "Mike Williams",
+   "pos": "WR",
+   "team": "PIT",
+   "proj_points": 114.9,
+   "proj_ppg": 8.21,
+   "vor": -32.3,
+   "overall_rank": 153
+  },
+  {
+   "id": "00-0022924",
+   "name": "Ben Roethlisberger",
+   "pos": "QB",
+   "team": "PIT",
+   "proj_points": 237.8,
+   "proj_ppg": 14.86,
+   "vor": -32.4,
+   "overall_rank": 154
+  },
+  {
+   "id": "00-0036637",
+   "name": "Noah Gray",
+   "pos": "TE",
+   "team": "KC",
+   "proj_points": 95.6,
+   "proj_ppg": 5.98,
+   "vor": -33.1,
+   "overall_rank": 155
+  },
+  {
+   "id": "00-0038976",
+   "name": "Marvin Mims Jr.",
+   "pos": "WR",
+   "team": "DEN",
+   "proj_points": 114.0,
+   "proj_ppg": 6.7,
+   "vor": -33.2,
+   "overall_rank": 156
+  },
+  {
+   "id": "00-0036265",
+   "name": "AJ Dillon",
+   "pos": "RB",
+   "team": "GB",
+   "proj_points": 124.7,
+   "proj_ppg": 8.31,
+   "vor": -34.1,
+   "overall_rank": 157
+  },
+  {
+   "id": "00-0034972",
+   "name": "Alexander Mattison",
+   "pos": "RB",
+   "team": "LV",
+   "proj_points": 124.3,
+   "proj_ppg": 8.88,
+   "vor": -34.5,
+   "overall_rank": 158
+  },
+  {
+   "id": "00-0032972",
+   "name": "Devontae Booker",
+   "pos": "RB",
+   "team": "NYG",
+   "proj_points": 124.3,
+   "proj_ppg": 7.77,
+   "vor": -34.5,
+   "overall_rank": 159
+  },
+  {
+   "id": "00-0033357",
+   "name": "Taysom Hill",
+   "pos": "TE",
+   "team": "NO",
+   "proj_points": 94.0,
+   "proj_ppg": 9.4,
+   "vor": -34.7,
+   "overall_rank": 160
+  },
+  {
+   "id": "00-0033881",
+   "name": "Evan Engram",
+   "pos": "TE",
+   "team": "JAX",
+   "proj_points": 93.9,
+   "proj_ppg": 9.39,
+   "vor": -34.8,
+   "overall_rank": 161
+  },
+  {
+   "id": "00-0022942",
+   "name": "Philip Rivers",
+   "pos": "QB",
+   "team": "IND",
+   "proj_points": 235.3,
+   "proj_ppg": 14.7,
+   "vor": -34.9,
+   "overall_rank": 162
+  },
+  {
+   "id": "00-0039067",
+   "name": "Rashee Rice",
+   "pos": "WR",
+   "team": "KC",
+   "proj_points": 112.0,
+   "proj_ppg": 11.2,
+   "vor": -35.2,
+   "overall_rank": 163
+  },
+  {
+   "id": "00-0033871",
+   "name": "Corey Davis",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj_points": 111.2,
+   "proj_ppg": 8.56,
+   "vor": -36.0,
+   "overall_rank": 164
+  },
+  {
+   "id": "00-0022921",
+   "name": "Larry Fitzgerald",
+   "pos": "WR",
+   "team": "ARI",
+   "proj_points": 110.8,
+   "proj_ppg": 8.52,
+   "vor": -36.4,
+   "overall_rank": 165
+  },
+  {
+   "id": "00-0033375",
+   "name": "Tim Patrick",
+   "pos": "WR",
+   "team": "DET",
+   "proj_points": 110.7,
+   "proj_ppg": 7.38,
+   "vor": -36.5,
+   "overall_rank": 166
+  },
+  {
+   "id": "00-0035229",
+   "name": "T.J. Hockenson",
+   "pos": "TE",
+   "team": "MIN",
+   "proj_points": 91.8,
+   "proj_ppg": 9.18,
+   "vor": -36.9,
+   "overall_rank": 167
+  },
+  {
+   "id": "00-0034407",
+   "name": "Ray-Ray McCloud",
+   "pos": "WR",
+   "team": "ATL",
+   "proj_points": 109.8,
+   "proj_ppg": 6.46,
+   "vor": -37.4,
+   "overall_rank": 168
+  },
+  {
+   "id": "00-0038619",
+   "name": "Andrei Iosivas",
+   "pos": "WR",
+   "team": "CIN",
+   "proj_points": 108.6,
+   "proj_ppg": 6.39,
+   "vor": -38.6,
+   "overall_rank": 169
+  },
+  {
+   "id": "00-0031687",
+   "name": "Raheem Mostert",
+   "pos": "RB",
+   "team": "MIA",
+   "proj_points": 120.1,
+   "proj_ppg": 9.24,
+   "vor": -38.7,
+   "overall_rank": 170
+  },
+  {
+   "id": "00-0027891",
+   "name": "Golden Tate",
+   "pos": "WR",
+   "team": "NYG",
+   "proj_points": 108.0,
+   "proj_ppg": 9.0,
+   "vor": -39.2,
+   "overall_rank": 171
+  },
+  {
+   "id": "00-0032392",
+   "name": "Austin Hooper",
+   "pos": "TE",
+   "team": "NE",
+   "proj_points": 88.9,
+   "proj_ppg": 5.23,
+   "vor": -39.8,
+   "overall_rank": 172
+  },
+  {
+   "id": "00-0037263",
+   "name": "Tyler Allgeier",
+   "pos": "RB",
+   "team": "ATL",
+   "proj_points": 119.0,
+   "proj_ppg": 7.0,
+   "vor": -39.8,
+   "overall_rank": 173
+  },
+  {
+   "id": "00-0039901",
+   "name": "Keon Coleman",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 107.3,
+   "proj_ppg": 8.26,
+   "vor": -39.9,
+   "overall_rank": 174
+  },
+  {
+   "id": "00-0033280",
+   "name": "Christian McCaffrey",
+   "pos": "RB",
+   "team": "SF",
+   "proj_points": 118.8,
+   "proj_ppg": 11.88,
+   "vor": -40.0,
+   "overall_rank": 175
+  },
+  {
+   "id": "00-0036849",
+   "name": "Tutu Atwell",
+   "pos": "WR",
+   "team": "LA",
+   "proj_points": 106.8,
+   "proj_ppg": 7.12,
+   "vor": -40.4,
+   "overall_rank": 176
+  },
+  {
+   "id": "00-0039875",
+   "name": "Ray Davis",
+   "pos": "RB",
+   "team": "BUF",
+   "proj_points": 118.1,
+   "proj_ppg": 6.95,
+   "vor": -40.7,
+   "overall_rank": 177
+  },
+  {
+   "id": "00-0035644",
+   "name": "Noah Fant",
+   "pos": "TE",
+   "team": "SEA",
+   "proj_points": 87.7,
+   "proj_ppg": 6.26,
+   "vor": -41.0,
+   "overall_rank": 178
+  },
+  {
+   "id": "00-0034351",
+   "name": "Dallas Goedert",
+   "pos": "TE",
+   "team": "PHI",
+   "proj_points": 87.6,
+   "proj_ppg": 8.76,
+   "vor": -41.1,
+   "overall_rank": 179
+  },
+  {
+   "id": "00-0026498",
+   "name": "Matthew Stafford",
+   "pos": "QB",
+   "team": "LA",
+   "proj_points": 228.7,
+   "proj_ppg": 14.3,
+   "vor": -41.5,
+   "overall_rank": 180
+  },
+  {
+   "id": "00-0030549",
+   "name": "Tyler Eifert",
+   "pos": "TE",
+   "team": "JAX",
+   "proj_points": 86.9,
+   "proj_ppg": 5.79,
+   "vor": -41.8,
+   "overall_rank": 181
+  },
+  {
+   "id": "00-0034975",
+   "name": "Justice Hill",
+   "pos": "RB",
+   "team": "BAL",
+   "proj_points": 117.0,
+   "proj_ppg": 7.8,
+   "vor": -41.8,
+   "overall_rank": 182
+  },
+  {
+   "id": "00-0036328",
+   "name": "Antonio Gibson",
+   "pos": "RB",
+   "team": "NE",
+   "proj_points": 116.8,
+   "proj_ppg": 6.87,
+   "vor": -42.0,
+   "overall_rank": 183
+  },
+  {
+   "id": "00-0034981",
+   "name": "Foster Moreau",
+   "pos": "TE",
+   "team": "NO",
+   "proj_points": 86.6,
+   "proj_ppg": 5.41,
+   "vor": -42.1,
+   "overall_rank": 184
+  },
+  {
+   "id": "00-0032765",
+   "name": "Michael Thomas",
+   "pos": "WR",
+   "team": "NO",
+   "proj_points": 104.9,
+   "proj_ppg": 10.49,
+   "vor": -42.3,
+   "overall_rank": 185
+  },
+  {
+   "id": "00-0032009",
+   "name": "Adam Humphries",
+   "pos": "WR",
+   "team": "WAS",
+   "proj_points": 104.8,
+   "proj_ppg": 6.17,
+   "vor": -42.4,
+   "overall_rank": 186
+  },
+  {
+   "id": "00-0034159",
+   "name": "Will Dissly",
+   "pos": "TE",
+   "team": "LAC",
+   "proj_points": 86.0,
+   "proj_ppg": 5.74,
+   "vor": -42.7,
+   "overall_rank": 187
+  },
+  {
+   "id": "00-0037545",
+   "name": "Rashid Shaheed",
+   "pos": "WR",
+   "team": "NO",
+   "proj_points": 104.1,
+   "proj_ppg": 10.41,
+   "vor": -43.1,
+   "overall_rank": 188
+  },
+  {
+   "id": "00-0030513",
+   "name": "Latavius Murray",
+   "pos": "RB",
+   "team": "BUF",
+   "proj_points": 115.2,
+   "proj_ppg": 7.68,
+   "vor": -43.6,
+   "overall_rank": 189
+  },
+  {
+   "id": "00-0039424",
+   "name": "Devaughn Vele",
+   "pos": "WR",
+   "team": "DEN",
+   "proj_points": 103.5,
+   "proj_ppg": 7.96,
+   "vor": -43.7,
+   "overall_rank": 190
+  },
+  {
+   "id": "00-0037837",
+   "name": "Calvin Austin III",
+   "pos": "WR",
+   "team": "PIT",
+   "proj_points": 102.8,
+   "proj_ppg": 6.05,
+   "vor": -44.4,
+   "overall_rank": 191
+  },
+  {
+   "id": "00-0034764",
+   "name": "Michael Gallup",
+   "pos": "WR",
+   "team": "DAL",
+   "proj_points": 102.5,
+   "proj_ppg": 6.4,
+   "vor": -44.7,
+   "overall_rank": 192
+  },
+  {
+   "id": "00-0035250",
+   "name": "Devin Singletary",
+   "pos": "RB",
+   "team": "NYG",
+   "proj_points": 113.9,
+   "proj_ppg": 7.59,
+   "vor": -44.9,
+   "overall_rank": 193
+  },
+  {
+   "id": "00-0037239",
+   "name": "Chris Olave",
+   "pos": "WR",
+   "team": "NO",
+   "proj_points": 99.3,
+   "proj_ppg": 9.93,
+   "vor": -47.9,
+   "overall_rank": 194
+  },
+  {
+   "id": "00-0027150",
+   "name": "Julian Edelman",
+   "pos": "WR",
+   "team": "NE",
+   "proj_points": 99.0,
+   "proj_ppg": 9.9,
+   "vor": -48.2,
+   "overall_rank": 195
+  },
+  {
+   "id": "00-0033009",
+   "name": "Tyler Boyd",
+   "pos": "WR",
+   "team": "TEN",
+   "proj_points": 98.3,
+   "proj_ppg": 6.55,
+   "vor": -48.9,
+   "overall_rank": 196
+  },
+  {
+   "id": "00-0035208",
+   "name": "Olamide Zaccheaus",
+   "pos": "WR",
+   "team": "WAS",
+   "proj_points": 98.2,
+   "proj_ppg": 6.14,
+   "vor": -49.0,
+   "overall_rank": 197
+  },
+  {
+   "id": "00-0036261",
+   "name": "Brandon Aiyuk",
+   "pos": "WR",
+   "team": "SF",
+   "proj_points": 97.8,
+   "proj_ppg": 9.78,
+   "vor": -49.4,
+   "overall_rank": 198
+  },
+  {
+   "id": "00-0039793",
+   "name": "AJ Barner",
+   "pos": "TE",
+   "team": "SEA",
+   "proj_points": 78.7,
+   "proj_ppg": 5.25,
+   "vor": -50.0,
+   "overall_rank": 199
+  },
+  {
+   "id": "00-0035216",
+   "name": "Diontae Johnson",
+   "pos": "WR",
+   "team": "HOU",
+   "proj_points": 96.8,
+   "proj_ppg": 8.8,
+   "vor": -50.4,
+   "overall_rank": 200
+  },
+  {
+   "id": "00-0034521",
+   "name": "Allen Lazard",
+   "pos": "WR",
+   "team": "NYJ",
+   "proj_points": 96.6,
+   "proj_ppg": 8.05,
+   "vor": -50.6,
+   "overall_rank": 201
+  },
+  {
+   "id": "00-0030181",
+   "name": "Jack Doyle",
+   "pos": "TE",
+   "team": "IND",
+   "proj_points": 77.8,
+   "proj_ppg": 5.19,
+   "vor": -50.9,
+   "overall_rank": 202
+  },
+  {
+   "id": "00-0037801",
+   "name": "KaVontae Turpin",
+   "pos": "WR",
+   "team": "DAL",
+   "proj_points": 96.2,
+   "proj_ppg": 5.66,
+   "vor": -51.0,
+   "overall_rank": 203
+  },
+  {
+   "id": "00-0034869",
+   "name": "Sam Darnold",
+   "pos": "QB",
+   "team": "MIN",
+   "proj_points": 218.4,
+   "proj_ppg": 12.85,
+   "vor": -51.8,
+   "overall_rank": 204
+  },
+  {
+   "id": "00-0039032",
+   "name": "Tyjae Spears",
+   "pos": "RB",
+   "team": "TEN",
+   "proj_points": 106.2,
+   "proj_ppg": 8.85,
+   "vor": -52.6,
+   "overall_rank": 205
+  },
+  {
+   "id": "00-0024389",
+   "name": "Delanie Walker",
+   "pos": "TE",
+   "team": "TEN",
+   "proj_points": 75.7,
+   "proj_ppg": 7.57,
+   "vor": -53.0,
+   "overall_rank": 206
+  },
+  {
+   "id": "00-0035329",
+   "name": "Donald Parham",
+   "pos": "TE",
+   "team": "LAC",
+   "proj_points": 75.1,
+   "proj_ppg": 5.36,
+   "vor": -53.6,
+   "overall_rank": 207
+  },
+  {
+   "id": "00-0039356",
+   "name": "Ja'Tavion Sanders",
+   "pos": "TE",
+   "team": "CAR",
+   "proj_points": 74.5,
+   "proj_ppg": 4.97,
+   "vor": -54.2,
+   "overall_rank": 208
+  },
+  {
+   "id": "00-0033307",
+   "name": "Kendrick Bourne",
+   "pos": "WR",
+   "team": "NE",
+   "proj_points": 92.7,
+   "proj_ppg": 7.73,
+   "vor": -54.5,
+   "overall_rank": 209
+  },
+  {
+   "id": "00-0033555",
+   "name": "Mack Hollins",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 92.6,
+   "proj_ppg": 5.45,
+   "vor": -54.6,
+   "overall_rank": 210
+  },
+  {
+   "id": "00-0034364",
+   "name": "Jordan Akins",
+   "pos": "TE",
+   "team": "CLE",
+   "proj_points": 74.0,
+   "proj_ppg": 4.62,
+   "vor": -54.7,
+   "overall_rank": 211
+  },
+  {
+   "id": "00-0033282",
+   "name": "Curtis Samuel",
+   "pos": "WR",
+   "team": "BUF",
+   "proj_points": 92.1,
+   "proj_ppg": 6.58,
+   "vor": -55.1,
+   "overall_rank": 212
+  },
+  {
+   "id": "00-0033594",
+   "name": "Chris Carson",
+   "pos": "RB",
+   "team": "SEA",
+   "proj_points": 103.7,
+   "proj_ppg": 10.37,
+   "vor": -55.1,
+   "overall_rank": 213
+  },
+  {
+   "id": "00-0034775",
+   "name": "Christian Kirk",
+   "pos": "WR",
+   "team": "JAX",
+   "proj_points": 91.7,
+   "proj_ppg": 9.17,
+   "vor": -55.5,
+   "overall_rank": 214
+  },
+  {
+   "id": "00-0031228",
+   "name": "Taylor Gabriel",
+   "pos": "WR",
+   "team": "CHI",
+   "proj_points": 91.6,
+   "proj_ppg": 9.16,
+   "vor": -55.6,
+   "overall_rank": 215
+  },
+  {
+   "id": "00-0033591",
+   "name": "Noah Brown",
+   "pos": "WR",
+   "team": "WAS",
+   "proj_points": 91.0,
+   "proj_ppg": 8.27,
+   "vor": -56.2,
+   "overall_rank": 216
+  },
+  {
+   "id": "00-0038608",
+   "name": "Kayshon Boutte",
+   "pos": "WR",
+   "team": "NE",
+   "proj_points": 90.7,
+   "proj_ppg": 6.05,
+   "vor": -56.5,
+   "overall_rank": 217
+  },
+  {
+   "id": "00-0038794",
+   "name": "Jaleel McLaughlin",
+   "pos": "RB",
+   "team": "DEN",
+   "proj_points": 102.3,
+   "proj_ppg": 6.39,
+   "vor": -56.5,
+   "overall_rank": 218
+  },
+  {
+   "id": "00-0036357",
+   "name": "Henry Ruggs III",
+   "pos": "WR",
+   "team": "LV",
+   "proj_points": 90.6,
+   "proj_ppg": 9.06,
+   "vor": -56.6,
+   "overall_rank": 219
+  },
+  {
+   "id": "00-0036414",
+   "name": "Cam Akers",
+   "pos": "RB",
+   "team": "MIN",
+   "proj_points": 102.2,
+   "proj_ppg": 6.38,
+   "vor": -56.6,
+   "overall_rank": 220
+  }
+ ]
+}

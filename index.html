@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fantasy Draft Value Board</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <h1>Fantasy Draft Value Board</h1>
+        <p class="tagline">One cross-positional board, tuned to your league's scoring, that tracks who is off the board as you draft.</p>
+      </div>
+      <div class="scoring-toggle" role="group" aria-label="Scoring format">
+        <button data-scoring="ppr" class="active">PPR</button>
+        <button data-scoring="half">Half PPR</button>
+        <button data-scoring="std">Standard</button>
+      </div>
+    </div>
+    <p class="meta-line" id="meta-line"></p>
+  </header>
+
+  <main>
+    <section class="board-pane">
+      <div class="controls">
+        <div class="pos-filter" role="group" aria-label="Position filter">
+          <button data-pos="ALL" class="active">All</button>
+          <button data-pos="QB">QB</button>
+          <button data-pos="RB">RB</button>
+          <button data-pos="WR">WR</button>
+          <button data-pos="TE">TE</button>
+        </div>
+        <input type="search" id="search" placeholder="Search player or team" autocomplete="off">
+        <label class="check"><input type="checkbox" id="hide-drafted"> Hide drafted</label>
+        <button id="reset-draft" class="reset">Reset draft</button>
+      </div>
+
+      <div class="table-wrap">
+        <table id="board">
+          <thead>
+            <tr>
+              <th data-sort="overall_rank" class="num sortable">#</th>
+              <th data-sort="name" class="sortable">Player</th>
+              <th data-sort="pos" class="sortable">Pos</th>
+              <th data-sort="team" class="sortable">Team</th>
+              <th data-sort="proj_points" class="num sortable">Proj Pts</th>
+              <th data-sort="proj_ppg" class="num sortable">Proj PPG</th>
+              <th data-sort="vor" class="num sortable">VOR</th>
+              <th class="actions-col">Draft</th>
+            </tr>
+          </thead>
+          <tbody id="board-body"></tbody>
+        </table>
+      </div>
+      <p class="count-line" id="count-line"></p>
+    </section>
+
+    <aside class="sidebar">
+      <div class="card best-available">
+        <h2>Best available</h2>
+        <div id="best-available-main" class="ba-main">--</div>
+        <div class="ba-strip" id="ba-strip"></div>
+      </div>
+
+      <div class="card my-picks">
+        <h2>Your picks</h2>
+        <div class="pos-counts" id="pos-counts"></div>
+        <ol id="my-picks-list" class="picks-list"></ol>
+        <p class="hint">Use <span class="chip chip-mine">Mine</span> on a row to add your pick. <span class="chip chip-them">Gone</span> marks a player another team took.</p>
+      </div>
+    </aside>
+  </main>
+
+  <footer>
+    <p>Projections from a transparent Value Over Replacement model on public nflverse data (2019-2024), for the 2025 season. Nothing leaves your browser. <a href="README.md">How it works &amp; backtest</a>.</p>
+  </footer>
+
+  <script src="data/boards.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

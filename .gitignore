@@ -1,0 +1,20 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data cache (raw nflverse downloads are large; the built boards are committed)
+scripts/nflv/
+*.csv.gz
+
+# Secrets - none are used in this project, but never commit them
+.env
+.env.*
