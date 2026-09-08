@@ -4,7 +4,7 @@ A one-page draft board that ranks every player on a single cross-positional scal
 tuned to your league's scoring, and tracks who is off the board as the draft
 happens. There is no backend and no account, and nothing leaves the browser.
 
-**Live:** _(Vercel URL goes here after deploy)_
+**Live:** https://ff-value-board.vercel.app
 
 <!-- Add docs/screenshot.png after the first deploy and uncomment:
 ![board screenshot](docs/screenshot.png) -->
